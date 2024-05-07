@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sole'! <br/><a href="">Programmer</a>, <a href="https://www.linkedin.com/in/sole-witt-aa3551260/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Enygma5011/featured">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-href="file:///home/lisbeth/Downloads/Screenshot%202024-05-07%20at%2003-39-48%20Activity%20Manage%20authorization%20Qwiklabs.png"
+<a href="file:///home/lisbeth/Downloads/Screenshot%202024-05-07%20at%2003-39-48%20Activity%20Manage%20authorization%20Qwiklabs.png" </a>
 - [Active Directory Home Lab]
 
 <h2> Certifications </h2>
